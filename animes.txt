@@ -1,0 +1,40 @@
+07 Ghost;25;Shonen-ai, Militar, Accion;false
+11 eyes;13;Ecchi, Accion, Sobrenatural;false
+3-gatsu no Lion;22;Slice of life, Seinen, Drama;false
+Aa! Megami-sama!;50;Romance, Sobrenatural, Magia, Seinen, Comedia;false
+Absolute Duo;12;Ecchi, Accion, Harem, Sobrenatural;false
+Accel World;26;Accion, Romance, SciFi;false
+Acchi Kocchi;13;Comedia, Romance, Slice of life;false
+Aishiteruze Baby;26;Drama, Romance, Comedia;false
+Ajin;13;Seinen, Misterio, Accion, Sobrenatural, Terror;false
+Akagami no Shirayuki-hime;12;Drama, Romance;false
+Akame ga Kill!;24;Accion, Aventuras, Sobrenatural;true
+Akuma no Riddle;13;Accion, Yuri, Romance;false
+Aldnoah.Zero;24;Acci�n, Mecha;false
+Angel Beats!;13;Drama, Romance, Accion, Comedia;true
+Ano Hi Mita Hana no Namae o Boku-tachi wa Mada Shiranai(AnoHana);11;Drama, Slice of life, Sobrenatural;false
+Another;12;Misterio, Sobrenatural, Suspense, Terror;false
+Ao no Exorcist;25;Accion, Sobrenatural;false
+Aoi Hana;11;Romance, Yuri;false
+Azumanga Daioh;28;Comedia, Slice of life;false
+Baby Steps;50;Deportes, Romance;false
+Bakuman;75;Romance, Comedia;true
+Black Bullet;13;Accion, Misterio;false
+Black Cat;23;Aventuras, Comedia, Sobrenatural;false
+Bleach;366;Accion, Comedia, Sobrenatural;false
+Bloodivores;12;Accion, Sobrenatural, Vampiros;false
+Boku wa Tomodachi ga Sukunai;25;Harem, Romance, Comedia;false
+Bokura ga Ita;26;Drama, Romance;false
+Bokura wa Minna Kawaisou;12;Comedia, Romance;false
+Break Blade (2014);12;Accion, Mecha, Militar;false
+Candy Boy;8;Romance, Yuri;false
+Chaos:Head;12;Harem, Misterio, Psicologico, Sobrenatural;false
+Charlotte;13;Drama, Romance, Sobrenatural;true
+Chobits;28;Comedia, Drama, Ecchi, Romance, Seinen;false
+Chuunibyou demo Koi ga Shitai!;31;Comedia, Drama, Romance,Sobrenatural;false
+Clannad;48;Comedia, Drama, Romance, Sobrenatural;true
+Claymore;26;Accion, Aventuras, Sobrenatural;false
+Code Geass;50;Accion, Mecha, Militar, Sobrenatural;true
+Code:Breaker;13;Accion, Comedia, Sobrenatural;false
+Coppelion;13;Accion, Seinen, Postapocaliptica;false
+Cowboy Bebop;26;Accion, Aventuras, Comedia, Drama, Espacial;true

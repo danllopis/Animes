@@ -1,0 +1,130 @@
+07 Ghost;25;Shonen-ai, Militar, Accion;false
+11 eyes;13;Ecchi, Accion, Sobrenatural;false
+3-gatsu no Lion;22;Slice of life, Seinen, Drama;false
+Aa! Megami-sama!;50;Romance, Sobrenatural, Magia, Seinen, Comedia;false
+Absolute Duo;12;Ecchi, Accion, Harem, Sobrenatural;false
+Accel World;26;Accion, Romance, SciFi;false
+Acchi Kocchi;13;Comedia, Romance, Slice of life;false
+Aishiteruze Baby;26;Drama, Romance, Comedia;false
+Ajin;13;Seinen, Misterio, Accion, Sobrenatural, Terror;false
+Akagami no Shirayuki-hime;12;Drama, Romance;false
+Akame ga Kill!;24;Accion, Aventuras, Sobrenatural;true
+Akuma no Riddle;13;Accion, Yuri, Romance;false
+Aldnoah.Zero;24;Acción, Mecha;false
+Angel Beats!;13;Drama, Romance, Accion, Comedia;true
+Ano Hi Mita Hana no Namae o Boku-tachi wa Mada Shiranai(AnoHana);11;Drama, Slice of life, Sobrenatural;false
+Another;12;Misterio, Sobrenatural, Suspense, Terror;false
+Ao no Exorcist;25;Accion, Sobrenatural;false
+Aoi Hana;11;Romance, Yuri;false
+Azumanga Daioh;28;Comedia, Slice of life;false
+Baby Steps;50;Deportes, Romance;false
+Bakuman;75;Romance, Comedia;true
+Black Bullet;13;Accion, Misterio;false
+Black Cat;23;Aventuras, Comedia, Sobrenatural;false
+Bleach;366;Accion, Comedia, Sobrenatural;false
+Bloodivores;12;Accion, Sobrenatural, Vampiros;false
+Boku wa Tomodachi ga Sukunai;25;Harem, Romance, Comedia;false
+Bokura ga Ita;26;Drama, Romance;false
+Bokura wa Minna Kawaisou;12;Comedia, Romance;false
+Break Blade (2014);12;Accion, Mecha, Militar;false
+Candy Boy;8;Romance, Yuri;false
+Chaos:Head;12;Harem, Misterio, Psicologico, Sobrenatural;false
+Charlotte;13;Drama, Romance, Sobrenatural;true
+Chobits;28;Comedia, Drama, Ecchi, Romance, Seinen;false
+Chuunibyou demo Koi ga Shitai!;31;Comedia, Drama, Romance,Sobrenatural;false
+Clannad;48;Comedia, Drama, Romance, Sobrenatural;true
+Claymore;26;Accion, Aventuras, Sobrenatural;false
+Code Geass;50;Accion, Mecha, Militar, Sobrenatural;true
+Code:Breaker;13;Accion, Comedia, Sobrenatural;false
+Coppelion;13;Accion, Seinen, Postapocaliptica;false
+Cowboy Bebop;26;Accion, Aventuras, Comedia, Drama, Espacial;true
+D.N.Angel;12;Romance;false
+Dakara Boku wa, H ga Dekinai;12;Romance, Ecchi;false
+Dance in the Vampire Bund;12;Romance, Vampiros, Sobrenatural;false
+DanganRonpa;12;Drama, Misterio;true
+Danmachi;12;Accion, Aventuras, Sobrenatural;true
+Danna ga Nani wo Itteiru ka Wakaranai Ken;24;Romance, Slice of life;true
+Date a Live;24;Romance, Sobrenatural, Superpoderes;false
+Deadman Wonderland;12;Sobrenatural, Terror, Misterio;true
+Death Parade;12;Misterio, Sobrenatural;true
+Diabolik Lovers;12;Romance, Harem;false
+Dimension W;24;Misterio;false
+Dragon Ball;500;Accion, Aventuras, Sobrenatural;true
+Durarara!!;24;Misterio;true
+Elfen Lied;24;Psicologico, Terror, Misterio, Sobrenatural, Gore;true
+Evangelion;24;Misterio, Psicologico, Mecha;true
+Fruit Basket;12;Romance, Sobrenatural, Harem;false
+Full Metal Panic;12;Romance, Militar;false
+Fullmetal Alchemist: Brotherhood;63;Accion, Aventuras, Drama, Romance;true
+Gekkan Shoujo Nozaki-kun;12;Romance, Shojo;false
+Ghost in the Shell: Arise;4;Psicologico, Misterio, Sobrenatural;false
+Gin'iro no Olynsis: Tokito;12;Accion, Romance, Mecha;false
+Gokujou;12;Slice of life;false
+Golden Time;24;Romance;false
+Grisaia no Kajitsu;24;Romance, Psicologico, Harem;true
+Guilty Crown;24;Romance, Sobrenatural, Psicologico, Drama;true
+Hagure Yuusha no Estetica;12;Accion, Sobrenatural, Ecchi;false
+Hai to Gensou no Grimgar;12;Accion, Aventuras, Sobrenatural;false
+Haikyuu!!;24;Deportes;true
+Hamatora;24;Accion, Sobrenatural;false
+Hana Yori Dango;51;Romance, Slice of life;false
+Hataraku Maou-sama;12;Accion, Sobrenatural;false
+Hentai Ouji to Warawanai Neko;12;Romance, Sobenatural;false
+Heroic Age;26;Accion, Mecha, Militar, Sobrenatural;false
+Hidan no Aria;12;Accion;false
+High School DxD;36;Accion, Aventuras, Sobrenatural, Romance, Ecchi, Harem;false
+Highschool of the dead;12;Accion, Postapocaliptica;false
+Hitsugi no Chaika;12;Accion, Aventuras, Sobrenatural;false
+Ichiban Ushiro no Daimaou;12;Accion, Comedia, Ecchi, Escolares, Harem, Romance, Sobrenatural;false
+Inari Konko Koi Iroha;12;Romance, Sobrenatural;false
+Infinite Stratos;24;Romance, Harem, Mecha;false
+Inou-Battle wa Nichijou-kei no Naka de;12;Accion, Sobrenatural;false
+Inu to Hasami wa Tsukaiyou;12;Romance, Sobrenatural, Ecchi, Comedia, Misterio;false
+Inu x Boku SS;12;Romance, Sobrenatural, Misterio;false
+Isuca;10;Romance, Sobrenatural, Accion;false
+Itazura na Kiss;24;Romance, Shojo, Escolares;true
+Itsuka Tenma no Kuro-usagi;12;Accion, Sobrenatural;false
+Kaicho wa Maid-sama!;24;Romance, Comedia, Escolares;false
+Kamisama Hajimemashita;24;Romance, Sobrenatural;false
+Kampfer;13;Romance, Comedia, Ecchi, Harem, Accion;false
+Kannazuki no Miko;12;Romance, Yuri, Sobrenatural, Mecha, Drama;false
+Kareshi Kanojo no Jijou;26;Drama, Romance, Comedia, Escolares, Slice of life;false
+Kashimashi: Girl meets Girl;12;Romance, Sobrenatural, Yuri;false
+Kaze no Stigma;24;Romance, Sobrenatural, Accion;false
+Kekkai Sensen;12;Accion, comedia, Sobrenatural;false
+Kenran Butoh Sai;26;Aventura, Comedia, Mecha, Militar, Romance, Accion;false
+Kimi ni Todoke;24;Romance, Shojo;false
+KissxSis;12;Romance, Ecchi;false
+Kiznaiver;12;Romance, Sobrenatural, Drama;true
+Kore wa Zombie desu ka?;12;Romance, Sobrenatural;false
+Kuroko no Basket;75;Deportes;false
+Kuroshitshuji;12;Sobrenatural;false
+Kurozuka;12;Sobrenatural, Drama;false
+Kuusen Madoushi Kohosei no Kyoukan;12;Accion, Drama, Sobrenatural, Escolares;false
+Kyoukai no Kanata;12;Accion, Sobrenatural;true
+Log Horizon;48;Sobrenatural, Accion, Aventuras;true
+Love Hina;24;Romance, Harem, Comedia, Slice of life;false
+Lovely Complex;24;Romance, Drama;false
+Maburaho;24;Romance, Ecchi, Comedia, Harem;false
+Macademi Wasshoi!;12;Comedia, Ecchi, Sobrenatural, Romance, Escolares;false
+Magic Kaito 1412;24;Aventura, Comedia, Romance, Misterio;false
+Mahoromatic;24;Comedia, Ecchi, Militar, Romance;false
+Mahouka Koukou no  Rettousei;24;Comedia, Sobrenatural, SciFi;false
+Maken-Ki;12;Comedia, Romance, Harem, Sobrenatural;false
+Mangaka-san to Assistant-san to;12;Slice of life, Comedia, Romance;false
+Maoyu Mao Yuusha;12;Aventura, Sobrenatural, Romance;false
+Maria Holic;12;Romance, Comedia, Ecchi;false
+Maria-sama ga Miteri;24;Romance, Yuri;false
+Marmalade Boy;76;Romance;false
+Mayo Chiki!;12;Romance, Coemdia;false
+Mayoi Neko Overrun!;13;Comedia, Harem, Romance;false
+Mekakucity Actors;12;SciFi, Comedia, Romance;true
+Mikakunin de Shinkoukei;12;Comedia, Romance, Sobrenatural;false
+Mirai Nikki;24;Romance, Sobrenatural;true
+Mob Psycho 100;12;Sobrenatural, Comedia;false
+Mobile Suit Gundam 00;50;Mecha, Militar, SciFi, Drama, Accion;true
+Mobile Suit Gundam Seed;100; Accion, Romance, Mecha, Militar, SciFi, Espacial, Drama;true
+Mobile Suit Gundam Wing;49;Militar, Accion, Mecha, Espacial;false
+Mobile Suit Gundam: Tekketsu no Orphans;50;Accion, Mecha, Drama, Romance;true
+MonMusu;12;Comedia, Harem, Sobrenatural;false
+Munto;12;Romance, Sobrenatural;false
